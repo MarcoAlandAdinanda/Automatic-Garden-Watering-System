@@ -25,7 +25,7 @@ const int pin_PING = 13;          // Single pin for both Trigger and Echo
 const int pin_LED_red = 12;       // System ON Indicator
 const int pin_LED_green = 11;     // Pump Active Indicator
 const int pin_LED_blue = 10;      // Valve Active Indicator
-const int pin_mosfet_pump = 9;    // Pump relay/MOSFET
+const int pin_mosfet_pump = 5;    // Pump relay/MOSFET
 const int pin_push_button = 7;    // Navigation button
 const int pin_pos_servo = 6;      // Water Valve Actuator
 
